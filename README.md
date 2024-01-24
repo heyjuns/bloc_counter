@@ -1,7 +1,13 @@
 # bloc_counter
 
-A new Flutter project.
+[Following Tutorial](https://bloclibrary.dev/#/fluttercountertutorial)
 
+## KEY TOPICS
+- Observe state changes with BlocObserver.
+- BlocProvider, Flutter widget which provides a bloc to its children.
+- BlocBuilder, Flutter widget that handles building the widget in response to new states.
+- Using Cubit instead of Bloc. What's the difference?
+- Adding events with context.read.⚡
 ## Getting Started
 
 This project is a starting point for a Flutter application.
